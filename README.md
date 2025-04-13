@@ -88,9 +88,8 @@
 
 <h3 align="left">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fetihakgun&show_icons=true&theme=radical" alt="fetihakgun GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fetihakgun&theme=radical" alt="fetihakgun GitHub Streak" />
-  <br />
+ <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fetihakgun&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&custom_title=Stats" width="48%" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fetihakgun&layout=compact&theme=radical" alt="Top Languages" />
 </p>
